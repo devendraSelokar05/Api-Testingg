@@ -9,15 +9,15 @@
   "routes": [
     {
       "src": "/api/New-movies",  
-      "dest": "Api_Testingg/index.js"
+      "dest": "/Api_Testingg/index.js"
     },
     {
       "src": "/api/New-movies/(.*)",  
-      "dest": "Api_Testingg/index.js"
+      "dest": "/Api_Testingg/index.js"
     },
     {
       "src": "/api/movies", 
-      "dest": "Api_Testingg/index.js"
+      "dest": "/Api_Testingg/index.js"
     }
   ]
 }
