@@ -19,5 +19,8 @@
       "src": "/api/movies", 
       "dest": "/index.js"
     }
-  ]
+  ],
+  "github": {
+    "autoJobCancelation": false
+  }
 }
