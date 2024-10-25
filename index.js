@@ -5444,7 +5444,7 @@ let movies = [
     },
 
     {
-      "name": "Mandy Moore",
+      "name": "Mandy Moor",
       "character": "Rebecca",
       "photo": "https://evoke.ie/wp-content/uploads/2024/01/GettyImages-1928401708.jpg?w=768"
     },
