@@ -5446,7 +5446,7 @@ let movies = [
     {
       "name": "Mandy Moore",
       "character": "Rebecca",
-      "photo": "https://media.glamour.com/photos/656a50c671151457768e01a0/master/w_2560%2Cc_limit/Full%2520Shot_Header%2520Image_MANDY%2520MOORE%2520RGB%2520copy.jpg"
+      "photo": "https://media.vanityfair.com/photos/628d42290545d9cf473370dd/1:1/w_2248,h_2248,c_limit/mandymooremain.jpeg"
     },
 
     {
