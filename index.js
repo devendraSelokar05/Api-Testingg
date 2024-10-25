@@ -6669,9 +6669,6 @@ let movies = [
 
 ];
 
-app.get('/', (req, res) => {
-  res.send('Welcome to the Movie API!');
-});
 
 // Endpoint to get all movies or filter by title, type, or genre
 app.get('/api/New-movies', (req, res) => {

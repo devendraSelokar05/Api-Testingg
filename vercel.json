@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/New-movies",  
+      "dest": "/index.js"
+    },
+    {
+      "src": "/api/New-movies/(.*)",  
+      "dest": "/index.js"
+    },
+    {
+      "src": "/api/movies", 
+      "dest": "/index.js"
+    }
+  ]
+}
+
+
