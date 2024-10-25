@@ -6583,7 +6583,7 @@ if (typeQuery) {
     }
     
     // Return filtered movies or all if none matched
-    res.json(filteredMovies.length > 0 ? filteredMovies : movies);
+    res.json(filteredMovies);
     
   } catch (error) {
     console.error('Error occurred:', error);
