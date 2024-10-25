@@ -8,10 +8,6 @@
   ],
   "routes": [
     {
-      "src": "/",
-      "dest": "/index.js"
-    },
-    {
       "src": "/api/New-movies",  
       "dest": "/index.js"
     },
