@@ -5501,17 +5501,7 @@ let movies = [
       "photo": "https://variety.com/wp-content/uploads/2023/12/syd.jpg?w=1000"
     },
 
-    {
-      "name": "Sydney Sweeney",
-      "character" : "Eden Blaine",
-      "photo": "https://variety.com/wp-content/uploads/2023/12/syd.jpg?w=1000"
-    },
-
-    {
-      "name": "Sydney Sweeney",
-      "character" : "Eden Blaine",
-      "photo": "https://variety.com/wp-content/uploads/2023/12/syd.jpg?w=1000"
-    }
+   
   ] 
   },
 
