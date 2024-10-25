@@ -5292,7 +5292,81 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "QDmCyFxHNME",
     "type" : "tollywood",
-    "genre" :["Action & Adventure", "Drama"]
+    "genre" :["Action & Adventure", "Drama"],
+    "description": "Succession is a critically acclaimed drama television series that premiered in 2018 on HBO. Created by Jesse Armstrong, the show centers around the powerful Roy family, owners of a global media empire, and their internal power struggles as they grapple with the impending retirement of the family patriarch, Logan Roy, portrayed by Brian Cox.The series explores themes of power, family loyalty, betrayal, and the complexities of wealth and privilege. As Logan’s children—Kendall (Jeremy Strong), Shiv (Sarah Snook), Roman (Kieran Culkin), and Connor (Alan Ruck)—jockey for position to inherit their father’s empire, their relationships become increasingly strained. Each character embodies distinct personality traits and ambitions, creating a tense and often darkly comedic atmosphere.",
+    "cast": [
+    {
+      "name": "Jeremy Strong",
+      "character": "Kendall Roy",
+      "photo": "https://dims.apnews.com/dims4/default/7f64548/2147483647/strip/false/crop/2228x1596+0+0/resize/1486x1064!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fc466b2eb934b454ebeadb010b89a6ffa%2F2228.jpeg"
+    },
+
+    {
+      "name": "Sarah Snook",
+      "character": "Siobhan Shiv Roy",
+      "photo": "https://evoke.ie/wp-content/uploads/2024/01/GettyImages-1928401708.jpg?w=768"
+    },
+
+    {
+      "name": "Nicholas Braun",
+      "character": "Greg Hirsch",
+      "photo": "https://www.the-sun.com/wp-content/uploads/sites/6/2023/03/SC-Nicholas-Braun-Off-Plat-copy.jpg?strip=all&quality=100&w=1620&h=1080&crop=1"
+    },
+
+    {
+      "name": "Matthew Macfadyen",
+      "character": "Tom Wambsgans",
+      "photo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcGZGDs6TCShOvAJUsWil3uOnbb89eM79K9YKPB5sIIrkcIJDXE3dfh9MPogGkuMSBloMhuOTBUDio2dCjkguqd4t2VF67V-AMIBsBNCQBg9tUAHhgt3a_1FEkqw1xKbheeBW0O4EpOq77/s1600/kinopoisk.ru-Matthew-Macfadyen-434537--w--1280.jpg"
+    },
+
+    {
+      "name": "Justine Lupe",
+      "character": "Willa Ferreyra",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi9Ddt3nFzs3LTvbKCQMOJtYkHiTh8DqAsGg&s"
+    },
+
+    {
+      "name": "Hope Davis",
+      "character" : "Sandi Furness",
+      "photo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqPDpqr_1lOHPutGO9-qbXY29qoR2ezWu_ZuVLovie3H9iuFRuSJ2VEuKh_PNRcxkXk6ulFFPSdt86Tu0S12tDNkL4vol8KLEwwXHpSEOM25imVQFbqmPckg7AE_hWqQQik6180hYloaRH/s320/Hope+Davis.jpg"
+    },
+
+    {
+      "name": "Arian Moayed",
+      "character": "Stewy Hosseini",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8POJEpNTtA5ROJ0XQsB3dZTe011TK5T_hXg&s"
+    },
+
+    {
+      "name": "Natalie Gold",
+      "character": "Rava Roy",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYlxX6Hq9eouKnDBK7Vx55IyIu6oQoYqwVg&s"
+    },
+
+    {
+      "name": "Alexander Skarsgård",
+      "character" : "Lukass Matsson",
+      "photo": "https://media.vanityfair.com/photos/6258742267f4b24bbe87221a/1:1/w_1657,h_1657,c_limit/alexander-skarsgard-2022-portrait-lede.png"
+    },
+
+    {
+      "name": "David Rasche",
+      "character" : "Kart Muller",
+      "photo": "https://images.squarespace-cdn.com/content/v1/5964d21746c3c4251f73ccec/1631205540209-JPUKWE572XEXMWSYO6C9/Dave+Rasche.jpg"
+    },
+
+    {
+      "name": "Fisher Stevens",
+      "character" : "Hugo Baker",
+      "photo": "https://www.indiewire.com/wp-content/uploads/2016/09/160908_tiff0314.jpg"
+    },
+
+    {
+      "name": "Dasha Nekrasova",
+      "character" : "Comfery Pellits",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOzScdTcuDwPzJy-C433iXe-0b6XVMHE5EA&s"
+    },
+  ] 
   },
   
   {
@@ -5359,7 +5433,82 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/257533647/s166/season-6.webp"
       },
     ],
-    "genre": ["Drama", "Romance", "Comedy"] 
+    "genre": ["Drama", "Romance", "Comedy"],
+    "description": "This Is Us delves into the lives of Jack and Rebecca Pearson and their three children—Kevin, Kate, and Randall—portraying both their everyday struggles and defining life events with a rare depth and authenticity. The show masterfully shifts between the past, where we see Jack and Rebecca raising their children, and the present, where each of the siblings faces their own unique journeys. Randall, an adopted Black child raised in a white family, grapples with questions of identity; Kevin, a successful actor, struggles to find personal fulfillment; and Kate faces lifelong battles with self-worth and body image.The series also touches on powerful themes such as addiction, mental health, adoption, racial identity, and the impact of parenting. With each season, This Is Us unveils how moments of both joy and sorrow weave through generations, shaping each person’s identity. Its profound storytelling, paired with beautifully layered characters, makes it an emotional, compelling portrayal of family, connection, and resilience.",
+
+    "cast": [
+    {
+      "name": "Milo Ventimiglia",
+      "character": "jack Pearson",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDqfgD6ibOAGSRq43Mjl4_63JWkOFcgq9VQ&s"
+    },
+
+    {
+      "name": "Mandy Moore",
+      "character": "Rebecca",
+      "photo": "https://evoke.ie/wp-content/uploads/2024/01/GettyImages-1928401708.jpg?w=768"
+    },
+
+    {
+      "name": "Sterling K. Brown",
+      "character": "Randall Pearson",
+      "photo": "https://www.the-sun.com/wp-content/uploads/sites/6/2023/03/SC-Nicholas-Braun-Off-Plat-copy.jpg?strip=all&quality=100&w=1620&h=1080&crop=1"
+    },
+
+    {
+      "name": "Justin Hartley",
+      "character": "Kevin",
+      "photo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcGZGDs6TCShOvAJUsWil3uOnbb89eM79K9YKPB5sIIrkcIJDXE3dfh9MPogGkuMSBloMhuOTBUDio2dCjkguqd4t2VF67V-AMIBsBNCQBg9tUAHhgt3a_1FEkqw1xKbheeBW0O4EpOq77/s1600/kinopoisk.ru-Matthew-Macfadyen-434537--w--1280.jpg"
+    },
+
+    {
+      "name": "Hannah Zeile",
+      "character": "Kate Pearson",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi9Ddt3nFzs3LTvbKCQMOJtYkHiTh8DqAsGg&s"
+    },
+
+    {
+      "name": "Alexandra Breckenridge",
+      "character" : "Sophie",
+      "photo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqPDpqr_1lOHPutGO9-qbXY29qoR2ezWu_ZuVLovie3H9iuFRuSJ2VEuKh_PNRcxkXk6ulFFPSdt86Tu0S12tDNkL4vol8KLEwwXHpSEOM25imVQFbqmPckg7AE_hWqQQik6180hYloaRH/s320/Hope+Davis.jpg"
+    },
+
+    {
+      "name": "Susan Kelechi Watson",
+      "character": "Beth",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8POJEpNTtA5ROJ0XQsB3dZTe011TK5T_hXg&s"
+    },
+
+    {
+      "name": "Natalie Gold",
+      "character": "Rava Roy",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYlxX6Hq9eouKnDBK7Vx55IyIu6oQoYqwVg&s"
+    },
+
+    {
+      "name": "Alexander Skarsgård",
+      "character" : "Lukass Matsson",
+      "photo": "https://media.vanityfair.com/photos/6258742267f4b24bbe87221a/1:1/w_1657,h_1657,c_limit/alexander-skarsgard-2022-portrait-lede.png"
+    },
+
+    {
+      "name": "David Rasche",
+      "character" : "Kart Muller",
+      "photo": "https://images.squarespace-cdn.com/content/v1/5964d21746c3c4251f73ccec/1631205540209-JPUKWE572XEXMWSYO6C9/Dave+Rasche.jpg"
+    },
+
+    {
+      "name": "Fisher Stevens",
+      "character" : "Hugo Baker",
+      "photo": "https://www.indiewire.com/wp-content/uploads/2016/09/160908_tiff0314.jpg"
+    },
+
+    {
+      "name": "Dasha Nekrasova",
+      "character" : "Comfery Pellits",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOzScdTcuDwPzJy-C433iXe-0b6XVMHE5EA&s"
+    },
+  ] 
   },
   
   {
