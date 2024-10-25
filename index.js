@@ -5440,7 +5440,7 @@ let movies = [
     {
       "name": "Milo Ventimiglia",
       "character": "jack Pearson",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDqfgD6ibOAGSRq43Mjl4_63JWkOFcgq9VQ&s"
+      "photo": "https://i2.wp.com/images2.fanpop.com/images/photos/4300000/MILO-sweet-milo-ventimiglia-4362339-1702-2560.jpg"
     },
 
     {
