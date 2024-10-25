@@ -5444,9 +5444,9 @@ let movies = [
     },
 
     {
-      "name": "Mandy Moor",
+      "name": "Mandy Moore",
       "character": "Rebecca",
-      "photo": "https://evoke.ie/wp-content/uploads/2024/01/GettyImages-1928401708.jpg?w=768"
+      "photo": "https://media.glamour.com/photos/656a50c671151457768e01a0/master/w_2560%2Cc_limit/Full%2520Shot_Header%2520Image_MANDY%2520MOORE%2520RGB%2520copy.jpg"
     },
 
     {
