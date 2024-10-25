@@ -2,22 +2,22 @@
   "version": 2,
   "builds": [
     {
-      "src": "Api_Testingg/index.js",
+      "src": "/index.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "/api/New-movies",
-      "dest": "/Api_Testingg/index.js"
+      "src": "/api/New-movies",  
+      "dest": "/index.js"
     },
     {
-      "src": "/api/New-movies/(.*)",
-      "dest": "/Api_Testingg/index.js"
+      "src": "/api/New-movies/(.*)",  
+      "dest": "/index.js"
     },
     {
-      "src": "/api/movies",
-      "dest": "/Api_Testingg/index.js"
+      "src": "/api/movies", 
+      "dest": "/index.js"
     }
   ]
 }
