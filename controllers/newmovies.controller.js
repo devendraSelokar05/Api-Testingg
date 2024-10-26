@@ -10,11 +10,11 @@ export const getMovies = async (req, res) => {
       query.title = new RegExp(title, 'i'); // Case-insensitive search
     }
 
-    if (type && type !== 'all') { // Check if type is not 'all'
+    if (type) {
       query.type = new RegExp(type, 'i'); // Search for type
     }
 
-    if (genre && genre !== 'all') { // Check if genre is not 'all'
+    if (genre) {
       query.genre = new RegExp(genre, 'i'); // Search for genre
     }
 
