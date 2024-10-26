@@ -10,13 +10,14 @@ export const getMovies = async (req, res) => {
       query.title = new RegExp(title, 'i'); // Case-insensitive search
     }
 
-    if (type) {
+    if (type && type !== 'all') { // Check if type is not 'all'
       query.type = new RegExp(type, 'i'); // Search for type
     }
 
-    if (genre) {
+    if (genre && genre !== 'all') { // Check if genre is not 'all'
       query.genre = new RegExp(genre, 'i'); // Search for genre
     }
+
 
     const movies = await Movie.find(query);
     res.json(movies);
