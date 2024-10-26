@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import connectionDB from "./config/db.js";
-import MovieRoute from "./routes/newmovies.route.js"
+import MovieRoutes from "./routes/newmovies.route.js"
 
 dotenv.config();
 
@@ -17,7 +17,7 @@ app.use(cors({
 }));
 
 connectionDB();
-app.use("/api", MovieRoute);
+app.use("/api", MovieRoutes);
 
 
 
